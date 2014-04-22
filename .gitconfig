@@ -1,0 +1,10 @@
+[user]
+	name = Tobias Stollenwerk
+	email = tobias.stollenwerk@dlr.de
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	br = branch
+	unstage = reset HEAD --
+	last = log -1 HEAD
